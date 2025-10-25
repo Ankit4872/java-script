@@ -1,2 +1,2 @@
 # java-script
-java script by hitesh choudhary
+java script by apna college
